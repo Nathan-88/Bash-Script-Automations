@@ -1,4 +1,5 @@
 #!/bin/bash
+#a scripts that creates a file and opens with vim editor
 echo "input file name"
 read file_name
 touch $file_name
